@@ -33,13 +33,7 @@
 <br>
 <a href="https://github.com/MiroslavRosenov/better-ipc" target="_blank"> 
 <img width="400px" src="https://github-readme-stats.vercel.app/api/pin?username=MiroslavRosenov&repo=better-ipc&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact"/>
-
-<br>
-
-<p>
-	⚡ <b>Fun fact</b> <br>
-	“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
-</p>
+</a>
 
 <br>
 
