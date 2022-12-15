@@ -27,9 +27,6 @@
 <br>
 
 <h3>📌 Latest Projects</h3>
-<a href="https://github.com/MiroslavRosenov/better-cluster" target="_blank"> 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/pin?username=MiroslavRosenov&repo=better-cluster&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact"/>
-</a>
 <br>
 <a href="https://github.com/MiroslavRosenov/better-ipc" target="_blank"> 
 <img width="400px" src="https://github-readme-stats.vercel.app/api/pin?username=MiroslavRosenov&repo=better-ipc&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact"/>
