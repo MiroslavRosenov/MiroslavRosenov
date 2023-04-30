@@ -10,7 +10,7 @@
 ### I’m a self-taught developer
 🌱 Currently working on [my discord bot](https://www.dapanda.xyz/)<br>
 📫You can reach me at contact@dapanda.xyz<br>
-🥅 2022 Goals: ...fix my sleep schedule<br>
+🥅 2022 Goals: Release my discord bot<br>
 ⚡ Fact About Me: I love working by myself<br>
 
 ### 
